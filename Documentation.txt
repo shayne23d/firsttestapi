@@ -1,0 +1,5 @@
+mongo cluster
+https://cloud.mongodb.com/v2/5da23c22cf09a2ff30bd142b#clusters
+
+article on api
+https://medium.com/@gautamprajapati/writing-a-simple-e-commerce-website-api-in-go-programming-language-9f671324b4dd
